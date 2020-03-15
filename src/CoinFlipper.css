@@ -1,0 +1,23 @@
+.CoinFlipper-btn{
+  padding: .5rem 2rem;
+  outline: none;
+  border: none;
+  background: rgb(122, 145, 145);
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  box-shadow: 5px 5px 8px 4px black;
+  cursor: pointer;
+}
+.CoinFlipper-btn:hover{  
+  background: rgb(85, 114, 114);
+ 
+}
+.CoinFlipper-btn:active{  
+  transform: translateY(2px);
+ 
+}
+
+.CoinFlipper-text{
+  font-size: 2rem;
+}

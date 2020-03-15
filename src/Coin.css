@@ -1,0 +1,10 @@
+.Coin{
+  width: 200px;
+  height: 200px;
+  margin: 2rem auto;
+}
+
+.Coin img {
+  width: 100%;
+  display: block;
+}
